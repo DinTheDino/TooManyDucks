@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "toomanyducks:rubberduckium_block"
+    }
+  ],
+  "result": {
+    "item": "toomanyducks:rubberduckium",
+    "count": 9
+  }
+}

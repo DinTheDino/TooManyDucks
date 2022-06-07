@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "toomanyducks:rubberduckium"
+    },
+    "1": {
+      "item": "toomanyducks:rubberduckium"
+    },
+    "2": {
+      "item": "toomanyducks:rubberduckium"
+    },
+    "3": {
+      "item": "toomanyducks:rubberduckium"
+    },
+    "4": {
+      "item": "toomanyducks:rubberduckium"
+    },
+    "5": {
+      "item": "toomanyducks:rubberduckium"
+    },
+    "6": {
+      "item": "toomanyducks:rubberduckium"
+    },
+    "7": {
+      "item": "toomanyducks:rubberduckium"
+    },
+    "8": {
+      "item": "toomanyducks:rubberduckium"
+    }
+  },
+  "result": {
+    "item": "toomanyducks:rubberduckium_block",
+    "count": 1
+  }
+}

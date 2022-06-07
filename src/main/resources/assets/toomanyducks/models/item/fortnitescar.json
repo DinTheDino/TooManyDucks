@@ -1,0 +1,7 @@
+{
+  "parent": "toomanyducks:custom/fortnite_scar_model",
+  "textures": {
+    "0": "toomanyducks:blocks/fortnite_scar_model",
+    "particle": "toomanyducks:items/scar"
+  }
+}

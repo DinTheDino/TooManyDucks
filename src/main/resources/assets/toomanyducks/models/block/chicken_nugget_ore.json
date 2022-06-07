@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "toomanyducks:blocks/chickennuggore",
+    "up": "toomanyducks:blocks/chickennuggore",
+    "north": "toomanyducks:blocks/chickennuggore",
+    "east": "toomanyducks:blocks/chickennuggore",
+    "south": "toomanyducks:blocks/chickennuggore",
+    "west": "toomanyducks:blocks/chickennuggore",
+    "particle": "toomanyducks:blocks/chickennuggore"
+  }
+}

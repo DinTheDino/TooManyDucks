@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond_block"
+    },
+    "1": {
+      "item": "minecraft:paper"
+    },
+    "2": {
+      "item": "minecraft:diamond_block"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "toomanyducks:nineteen_dollar_fortnite_card",
+    "count": 1
+  }
+}

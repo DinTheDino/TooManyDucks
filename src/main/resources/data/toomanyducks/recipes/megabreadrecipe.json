@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bread"
+    },
+    "1": {
+      "item": "toomanyducks:chickennugget"
+    },
+    "2": {
+      "item": "minecraft:bread"
+    },
+    "3": {
+      "item": "toomanyducks:chickennugget"
+    },
+    "4": {
+      "item": "minecraft:bread"
+    },
+    "5": {
+      "item": "toomanyducks:chickennugget"
+    },
+    "6": {
+      "item": "minecraft:bread"
+    },
+    "7": {
+      "item": "toomanyducks:chickennugget"
+    },
+    "8": {
+      "item": "minecraft:bread"
+    }
+  },
+  "result": {
+    "item": "toomanyducks:mega_bread",
+    "count": 1
+  }
+}

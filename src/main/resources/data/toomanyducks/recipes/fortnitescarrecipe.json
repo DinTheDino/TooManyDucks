@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "toomanyducks:barrel"
+    },
+    "1": {
+      "item": "toomanyducks:gun_middle"
+    },
+    "2": {
+      "item": "toomanyducks:gun_stock"
+    }
+  },
+  "result": {
+    "item": "toomanyducks:fortnitescar",
+    "count": 1
+  }
+}

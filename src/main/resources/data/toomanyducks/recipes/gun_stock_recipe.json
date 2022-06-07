@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "34 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "toomanyducks:chickennugget"
+    },
+    "2": {
+      "item": "toomanyducks:chickennugget"
+    },
+    "3": {
+      "item": "minecraft:iron_ingot"
+    },
+    "4": {
+      "item": "toomanyducks:chickennugget"
+    }
+  },
+  "result": {
+    "item": "toomanyducks:gun_stock",
+    "count": 1
+  }
+}

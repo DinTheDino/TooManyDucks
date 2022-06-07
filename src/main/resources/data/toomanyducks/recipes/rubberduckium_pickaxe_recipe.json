@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "toomanyducks:rubberduckium"
+    },
+    "1": {
+      "item": "toomanyducks:rubberduckium"
+    },
+    "2": {
+      "item": "toomanyducks:rubberduckium"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "toomanyducks:rubberduckium_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "fortnite_scar_model"
+      },
+      "name": "default"
+    }
+  }
+}
